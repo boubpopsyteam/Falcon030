@@ -1,0 +1,10 @@
+g:\total.sup\spritedi.tor\sprite.tos
+=
+PCSTART.O          ; startup code
+sprite.c
+complet.c
+g:\total.sup\objects\skel.o
+g:\total.sup\objects\tga24.o
+pcstdlib.lib
+;pcextlib.lib
+pctoslib.lib
